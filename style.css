@@ -13,7 +13,7 @@ body{
 }
 
 h1{
-    margin: 1% auto 1% auto;  
+    margin: 1% 0% 1% 0%;  
 }
 
 h3{
@@ -63,7 +63,7 @@ li{
     margin: 2% 0% 2% 0%;
 }
 
-h1 , h2 ,  h4{
+h2 ,  h4{
     margin: 0;
 }
     
